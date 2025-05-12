@@ -24,7 +24,6 @@ I do tend to keep my practice repositories private—sometimes you just need spa
 Here are some of my GitHub stats:
 
 ![ProtoPla's Stats](https://github-readme-stats.vercel.app/api?username=ProtoPla&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-![ProtoPla's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ProtoPla&theme=vue-dark&hide_border=true)
 ![ProtoPla's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ProtoPla&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
 ---
