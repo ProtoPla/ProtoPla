@@ -6,6 +6,9 @@ I'm an Electronics and Electrical Engineering (EEE) student with a primary focus
 
 I do tend to keep my practice repositories and projects private—sometimes you just need space to experiment without pressure! 😅 But as I continue learning, you'll see more polished projects making their way here.
 
+### Current Projects
+- **Haptic Navigation Assistant:** Work in progress — will be released once the first functional version is complete. 
+
 ### 🔧 Technologies & Tools I Use
 - **Microcontrollers:** Atmega328P, ESP32, STM32
 - **Programming Languages:** C, C++, Python
