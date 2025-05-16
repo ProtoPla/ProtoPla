@@ -25,10 +25,9 @@ I do tend to keep my practice repositories and projects private—sometimes you 
 
 ### 📈 GitHub Stats
 Here are some of my GitHub stats:
-
 ![ProtoPla's Stats](https://github-readme-stats.vercel.app/api?username=ProtoPla&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+## Langs
 ![ProtoPla's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ProtoPla&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
-
 ---
 
 Feel free to reach out if you'd like to collaborate on any projects! I'm always open to new ideas and learning from others in the field.
