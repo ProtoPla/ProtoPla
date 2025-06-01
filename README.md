@@ -13,7 +13,7 @@ I do tend to keep my practice repositories and projects private—sometimes you 
 - **Microcontrollers:** Atmega328P, ESP32, STM32
 - **Programming Languages:** C, C++, Python
 - **Design Tools:** KiCad, Altium Designer, LTSpice, SolidWorks, 
-- **Embedded Systems:** AVR, Xtensa 
+- **Embedded Systems:** AVR, ARM, Xtensa 
 - **Simulation Tools:** Multisim
 
 ### 🌱 Current Learning Focus
